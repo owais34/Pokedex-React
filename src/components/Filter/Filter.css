@@ -1,0 +1,26 @@
+.button{
+    font-size: large;
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px;
+    transition: all .2s ease-in-out;
+    box-shadow: 0 0 5px whitesmoke;
+}
+
+.button:hover{
+    transform: scale(1.5);
+    box-shadow: 0 0 5px yellow;
+}
+
+.button:focus{
+    transform: scale(0.9);
+}
+
+.button-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}

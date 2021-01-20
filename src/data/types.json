@@ -1,0 +1,92 @@
+[
+  {
+    "english": "Normal",
+    "color": "#B2D732",
+    "text": "#2B3409"
+  },
+  {
+    "english": "Fighting",
+    "color": "#D61A46",
+    "text": "#98CA32"
+  },
+  {
+    "english": "Flying",
+    "color": "#5E97D9",
+    "text": "#091D34"
+  },
+  {
+    "english": "Poison",
+    "color": "#284E27",
+    "text": "#C86F5B"
+  },
+  {
+    "english": "Ground",
+    "color": "#CC0030",
+    "text": "#340913"
+  },
+  {
+    "english": "Rock",
+    "color": "#545440",
+    "text": "#BF7DD4"
+  },
+  {
+    "english": "Bug",
+    "color": "#FCCB1A",
+    "text": "#4424D6"
+  },
+  {
+    "english": "Ghost",
+    "color": "#E2E2DA",
+    "text": "#8601AF"
+  },
+  {
+    "english": "Steel",
+    "color": "#79799A",
+    "text": "#FCBA12"
+  },
+  {
+    "english": "Fire",
+    "color": "#FB9902",
+    "text": "#341C09"
+  },
+  {
+    "english": "Water",
+    "color": "#4875EF",
+    "text": "#091534"
+  },
+  {
+    "english": "Grass",
+    "color": "#98CA32",
+    "text": "#D61A46"
+  },
+  {
+    "english": "Electric",
+    "color": "#FEFE33",
+    "text": "#8601AF"
+  },
+  {
+    "english": "Psychic",
+    "color": "#8601AF",
+    "text": "#FEFE33"
+  },
+  {
+    "english": "Ice",
+    "color": "#D3E7FD",
+    "text": "#3A8CE9"
+  },
+  {
+    "english": "Dragon",
+    "color": "#347B98",
+    "text": "#FC600A"
+  },
+  {
+    "english": "Dark",
+    "color": "#092834",
+    "text": "#DBAD95"
+  },
+  {
+    "english": "Fairy",
+    "color": "#F797D9",
+    "text": "#9C1C71"
+  }
+]
