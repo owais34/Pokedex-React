@@ -23,3 +23,7 @@
     text-decoration: underline;
     padding-bottom: 10px;
 }
+.type-display{
+    display: flex;
+    align-self: center;
+}

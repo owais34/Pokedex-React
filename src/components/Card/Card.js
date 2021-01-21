@@ -10,7 +10,16 @@ function Card({pokemon}) {
             <h1 className="typography-card">{pokemon.name.english}</h1>
             <div className="type-display">
                 {
-                    
+                    pokemon.type.map((type_item)=>{
+                        return(
+                            <h3 style={{color:type[type_item]["text"],
+                            backgroundColor:type[type_item]["color"],
+                            margin:"5px",
+                            borderRadius:"5px",
+                            padding:"5px"
+                        }}>{type_item}</h3>
+                        )
+                    })
                 }
             </div>
         </div>
