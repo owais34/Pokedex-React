@@ -1,92 +1,92 @@
-[
-  {
+{
+  "Normal":{
     "english": "Normal",
     "color": "#B2D732",
     "text": "#2B3409"
   },
-  {
+  "Fighting":{
     "english": "Fighting",
     "color": "#D61A46",
     "text": "#98CA32"
   },
-  {
+  "Flying":{
     "english": "Flying",
     "color": "#5E97D9",
     "text": "#091D34"
   },
-  {
+  "Poison":{
     "english": "Poison",
     "color": "#284E27",
     "text": "#C86F5B"
   },
-  {
+  "Ground":{
     "english": "Ground",
     "color": "#CC0030",
     "text": "#340913"
   },
-  {
+  "Rock":{
     "english": "Rock",
     "color": "#545440",
     "text": "#BF7DD4"
   },
-  {
+  "Bug":{
     "english": "Bug",
     "color": "#FCCB1A",
     "text": "#4424D6"
   },
-  {
+  "Ghost":{
     "english": "Ghost",
     "color": "#E2E2DA",
     "text": "#8601AF"
   },
-  {
+  "Steel":{
     "english": "Steel",
     "color": "#79799A",
     "text": "#FCBA12"
   },
-  {
+  "Fire":{
     "english": "Fire",
     "color": "#FB9902",
     "text": "#341C09"
   },
-  {
+  "Water":{
     "english": "Water",
     "color": "#4875EF",
     "text": "#091534"
   },
-  {
+  "Grass":{
     "english": "Grass",
     "color": "#98CA32",
     "text": "#D61A46"
   },
-  {
+  "Electric":{
     "english": "Electric",
     "color": "#FEFE33",
     "text": "#8601AF"
   },
-  {
+  "Psychic":{
     "english": "Psychic",
     "color": "#8601AF",
     "text": "#FEFE33"
   },
-  {
+  "Ice":{
     "english": "Ice",
     "color": "#D3E7FD",
     "text": "#3A8CE9"
   },
-  {
+  "Dragon":{
     "english": "Dragon",
     "color": "#347B98",
     "text": "#FC600A"
   },
-  {
+  "Dark":{
     "english": "Dark",
     "color": "#092834",
     "text": "#DBAD95"
   },
-  {
+  "Fairy":{
     "english": "Fairy",
     "color": "#F797D9",
     "text": "#9C1C71"
   }
-]
+}

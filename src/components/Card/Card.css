@@ -6,11 +6,20 @@
     margin: 20px;
     border-radius: 20px;
     transition: 500ms ease-in-out;
+    justify-content: center;
+    background-color: black;
 }
 .card-main:hover{
     transform: scale(1.1);
 }
 .image{
-    width: 300px;
+    height: 300px;
     margin: 20px;
+    border-radius: 10px;
+}
+.typography-card{
+    margin: auto;
+    color: gray;
+    text-decoration: underline;
+    padding-bottom: 10px;
 }

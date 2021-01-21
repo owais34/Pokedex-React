@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import data from '../../data/types.json'
+import data from '../../data/type_array.json'
 import './Filter.css'
 
 function Filter(props) {
