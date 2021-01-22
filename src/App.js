@@ -11,8 +11,20 @@ export const PokeData=createContext()
 const initialState=pokedex
 
 const reducer=(state,action)=>{
+
     switch(action.type){
-        
+        case "search":
+
+            return pokedex.filter((pokemon)=>{
+                return pokemon.name.english.toLowerCase().includes(action.payload)
+            })
+
+        case "set-type":
+        return pokedex.filter((pokemon)=>{
+            return pokemon.type.includes(action.payload)
+        })
+        default :
+            return pokedex
     }
 }
 

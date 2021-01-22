@@ -1,10 +1,14 @@
-import React, { useState } from 'react';
+import React, { useContext, useState } from 'react';
+import { PokeData } from "../../App";
 import "./Search.css";
 
 function Search(props) {
     const [text,setText]=useState('')
+    const PokeDataContext=useContext(PokeData)
+
     const inputChangeHandler=(event)=>{
         setText(event.target.value)
+        PokeDataContext.dispatch({type:"search",payload:event.target.value})
     }
     return (
         <div className="search-bar">
