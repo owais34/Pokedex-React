@@ -7,7 +7,7 @@
 .grid-container {
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 1.2fr .4fr minmax(50px,auto) 1fr 1fr;
+  grid-template-rows: minmax(100px,auto) minmax(50px,auto) minmax(50px,auto) 1fr 1fr;
   gap: 0px 0px;
   grid-template-areas:
     "Header"
