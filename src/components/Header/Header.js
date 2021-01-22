@@ -6,7 +6,7 @@ function Header(props) {
     return (
         <div className="header-container">
             <div className="head-image">
-            <img src="https://i.imgur.com/VaPIoJC.png" border="0" alt="title" className="grow"></img>
+            <img src="https://i.imgur.com/VaPIoJC.png" border="0" alt="title" className="grow "></img>
             <img src={logo} 
             alt="pokeball" style={{width:"200px"}} className="pokeball"/>
             </div>

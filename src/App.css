@@ -7,7 +7,7 @@
 .grid-container {
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 1.3fr .4fr minmax(50px,auto) 1fr 1fr;
+  grid-template-rows: 1.2fr .4fr minmax(50px,auto) 1fr 1fr;
   gap: 0px 0px;
   grid-template-areas:
     "Header"
@@ -33,4 +33,11 @@ display: flex;
 flex-wrap: wrap;
 align-items: baseline;
 justify-content: space-evenly;
-height: 500px;}
+height: 500px;
+-ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */}
+
+
+.Cards::-webkit-scrollbar {
+  display: none;
+}
